@@ -141,8 +141,7 @@ def delete_employee():
             return
 
     print("❌ Employee not found.\n")
-
-
+    
 def main():
     role = None
     while not role:
