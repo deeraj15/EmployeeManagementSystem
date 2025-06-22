@@ -1,0 +1,82 @@
+[
+    {
+        "emp_id": "121",
+        "name": "Comie",
+        "age": 22,
+        "department": "HR",
+        "designation": "HR Manager",
+        "salary": 50000.0
+    },
+    {
+        "emp_id": "122",
+        "name": "Deeraj",
+        "age": 20,
+        "department": "TR",
+        "designation": "Trainer",
+        "salary": 20000.0
+    },
+    {
+        "emp_id": "123",
+        "name": "Priya",
+        "age": 20,
+        "department": "IT",
+        "designation": "Software Developer",
+        "salary": 50000.0
+    },
+    {
+        "emp_id": "124",
+        "name": "Sriya",
+        "age": 20,
+        "department": "Marketing",
+        "designation": "Marketing Lead",
+        "salary": 50000.0
+    },
+    {
+        "emp_id": "125",
+        "name": "Akshith",
+        "age": 20,
+        "department": "Finance",
+        "designation": "Accounting",
+        "salary": 40000.0
+    },
+    {
+        "emp_id": "126",
+        "name": "Prajyoth",
+        "age": 20,
+        "department": "Dev",
+        "designation": "Full stack Developer",
+        "salary": 60000.0
+    },
+    {
+        "emp_id": "127",
+        "name": "Praneeth",
+        "age": 20,
+        "department": "Finance",
+        "designation": "Finance Manager",
+        "salary": 35000.0
+    },
+    {
+        "emp_id": "128",
+        "name": "Navneeth",
+        "age": 20,
+        "department": "Data",
+        "designation": "Data Analytics",
+        "salary": 70000.0
+    },
+    {
+        "emp_id": "129",
+        "name": "Mahesh",
+        "age": 20,
+        "department": "IT",
+        "designation": "Developer",
+        "salary": 35000.0
+    },
+    {
+        "emp_id": "130",
+        "name": "Harsha",
+        "age": 20,
+        "department": "IT",
+        "designation": "Full Stack Developer",
+        "salary": 60000.0
+    }
+]
